@@ -6,6 +6,18 @@
   
 Expo Snack :  https://snack.expo.dev/@adolf-simanjuntak/flat-list-food
 
+## Fitur yang Diimplementasikan
+- [✓] FlatList dengan 12+ produk
+- [✓] Custom ProductCard component (file terpisah)
+- [✓] keyExtractor dengan ID unik
+- [✓] ListEmptyComponent (empty state)
+- [✓] Search / Filter real-time
+- [✓] Pull-to-Refresh
+- [✓] Filter Kategori (E1) — isi jika dikerjakan
+- [✓] Toggle List/Grid View (E2) — isi jika dikerjakan
+- [✓] SectionList Mode (E3) — isi jika dikerjakan
+- [✓] Sort Produk (E4) — isi jika dikerjakan
+
   
 ## Screenshot
 ### Tampilan Utama (List Produk)
