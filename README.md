@@ -1,50 +1,29 @@
-# Welcome to your Expo app 👋
+# ShopList App - Pemrograman Mobile Pertemuan 6
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## Nama & NIM
+- Nama: [Adolf Mulia Simanjuntak]
+- NIM:  [213303040284]
+  
+Expo Snack :  https://snack.expo.dev/@adolf-simanjuntak/flat-list-food
 
-## Get started
+  
+## Screenshot
+### Tampilan Utama (List Produk)
 
-1. Install dependencies
+<img width="280" height="550" alt="image" src="https://github.com/user-attachments/assets/c386072e-3182-42a1-aa30-0d26c41b17e1" />
 
-   ```bash
-   npm install
-   ```
 
-2. Start the app
+### Tampilan Search — saat ada hasil
 
-   ```bash
-   npx expo start
-   ```
+<img width="280" height="550" alt="image" src="https://github.com/user-attachments/assets/32f40f0f-875e-47cc-9452-294b1c6aee9e" />
 
-In the output, you'll find options to open the app in a
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+### Tampilan Empty State — saat tidak ada hasil
+<img width="280" height="550" alt="image" src="https://github.com/user-attachments/assets/5b41fac9-9f0e-4662-b999-6f48ad8b452f" />
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## Cara Menjalankan
+1. Clone repo  : git clone [url-repo-kamu]
+2. Install deps: npm install
+3. Jalankan    : npx expo start
+4. Scan QR Code dengan Expo Go di HP
